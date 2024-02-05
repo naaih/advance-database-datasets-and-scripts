@@ -1,0 +1,10 @@
+-- SELECT * FROM meteorite_landings.meteorite_landings;
+-- SELECT id from meteorite_landings.meteorite_landings;
+-- SELECT nametype from meteorite_landings.meteorite_landings;
+-- SELECT recclass from meteorite_landings.meteorite_landings
+-- SELECT mass from meteorite_landings.meteorite_landings;
+-- SELECT fall from meteorite_landings.meteorite_landings;
+-- SELECT year from meteorite_landings.meteorite_landings;
+-- SELECT reclat from meteorite_landings.meteorite_landings;
+-- SELECT reclong from meteorite_landings.meteorite_landings;
+-- SELECT GeoLocation from meteorite_landings.meteorite_landings
